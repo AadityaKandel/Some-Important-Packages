@@ -13,6 +13,8 @@ os.system('pip install django')
 os.system('cls')
 os.system('pip install flask')
 os.system('cls')
+os.system('pip install pillow')
+os.system('cls')
 
 print('''Done :) :) :) :) :) :)''')
 print('Press Any Key')
